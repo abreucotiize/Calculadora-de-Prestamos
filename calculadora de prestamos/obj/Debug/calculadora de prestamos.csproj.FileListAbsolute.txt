@@ -1,0 +1,9 @@
+c:\users\pedro sosa\documents\visual studio 2013\Projects\calculadora de prestamos\calculadora de prestamos\bin\Debug\calculadora de prestamos.exe.config
+c:\users\pedro sosa\documents\visual studio 2013\Projects\calculadora de prestamos\calculadora de prestamos\bin\Debug\calculadora de prestamos.exe
+c:\users\pedro sosa\documents\visual studio 2013\Projects\calculadora de prestamos\calculadora de prestamos\bin\Debug\calculadora de prestamos.pdb
+c:\users\pedro sosa\documents\visual studio 2013\Projects\calculadora de prestamos\calculadora de prestamos\obj\Debug\calculadora de prestamos.csprojResolveAssemblyReference.cache
+c:\users\pedro sosa\documents\visual studio 2013\Projects\calculadora de prestamos\calculadora de prestamos\obj\Debug\calculadora_de_prestamos.Form1.resources
+c:\users\pedro sosa\documents\visual studio 2013\Projects\calculadora de prestamos\calculadora de prestamos\obj\Debug\calculadora_de_prestamos.Properties.Resources.resources
+c:\users\pedro sosa\documents\visual studio 2013\Projects\calculadora de prestamos\calculadora de prestamos\obj\Debug\calculadora de prestamos.csproj.GenerateResource.Cache
+c:\users\pedro sosa\documents\visual studio 2013\Projects\calculadora de prestamos\calculadora de prestamos\obj\Debug\calculadora de prestamos.exe
+c:\users\pedro sosa\documents\visual studio 2013\Projects\calculadora de prestamos\calculadora de prestamos\obj\Debug\calculadora de prestamos.pdb
